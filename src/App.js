@@ -1,24 +1,25 @@
 import logo from './logo.svg';
 import './App.css';
+import CityInfo from './components/cityInfo/CityInfo';
+import CityPhotos from './components/cityPhotos/CityPhotos';
+import AnotherLandmarks from './components/anotherLandmarks/AnotherLandmarks';
+import FamousLandmark from './components/famousLandmark/FamousLandmark';
+import NavBar from './components/navBar/NavBar';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <div>
+        <NavBar />
+      </div>
+      <div>
+        <Route path='/info' component={CityInfo} />
+        <Route path='/famous-landmark' component={FamousLandmark} />
+        <Route path='/landmarks' component={AnotherLandmarks} />
+        <Route path='/photos' component={CityPhotos} />
+      </div>
+    </BrowserRouter>
   );
 }
 

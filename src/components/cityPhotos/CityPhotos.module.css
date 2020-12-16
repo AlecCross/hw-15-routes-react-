@@ -1,0 +1,9 @@
+.gallery{
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gallery img{
+    width: 640px;
+}

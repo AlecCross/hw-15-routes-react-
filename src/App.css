@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.textSet{
+  padding: 1% 8%;
+  ;margin: 0 auto;
+  font-style: italic;
+  line-height: 26px;
+  font-weight: 400;
+  font-size: 18px;
+}
