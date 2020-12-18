@@ -5,21 +5,21 @@ import CityPhotos from './components/cityPhotos/CityPhotos';
 import AnotherLandmarks from './components/anotherLandmarks/AnotherLandmarks';
 import FamousLandmark from './components/famousLandmark/FamousLandmark';
 import NavBar from './components/navBar/NavBar';
-import { BrowserRouter, Route } from 'react-router-dom';
+import {HashRouter, BrowserRouter, Route, Switch } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div>
         <NavBar />
       </div>
-      <div>
+      <Switch>
         <Route path='/info' component={CityInfo} />
         <Route path='/famous-landmark' component={FamousLandmark} />
         <Route path='/landmarks' component={AnotherLandmarks} />
         <Route path='/photos' component={CityPhotos} />
-      </div>
-    </BrowserRouter>
+      </Switch>
+    </HashRouter>
   );
 }
 
