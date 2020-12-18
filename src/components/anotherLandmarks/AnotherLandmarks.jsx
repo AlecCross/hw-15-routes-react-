@@ -6,24 +6,8 @@ let AnotherLandmarks = () => {
     return (
         <>
             <div className="textSet">
-                <h1>Музыкальный фонтан</h1>
-                <img src="http://www.openarium.ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D1%80%D0%BE%D0%B3/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%84%D0%BE%D0%BD%D1%82%D0%B0%D0%BD.jpg"
-                    alt="Музыкальный фонтан" />
-                <blockquote>
-                    Музыкальный фонтан появился в городе Кривой Рог в 2011 году, 28 мая по случаю 236-го дня рождения города.
-                    На сегодняшний день этот фонтан является самым большим на Украине. Современный светодинамический музыкальный фонтан
-                    - один из успешно реализованных проектов по благоустройству города, построен на благотворительные деньги.
-                </blockquote>
-                <blockquote>
-                    Фонтан расположен на площади перед зданием городского совета. Прекрасное зрелище открывается прохожим:
-                    под красивую музыку фонтан буквально "танцует", играет разноцветными огнями. Сегодня фонтан является любимым местом
-                    времяпровождения среди жителей
-                    и гостей города, одной из главных городских достопримечательностей.
-                </blockquote>
-            </div>
-            <div className="textSet">
                 <h1>Криворожский ботанический сад</h1>
-                <img src="http://www.openarium.ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D1%80%D0%BE%D0%B3/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D1%81%D0%BA%D0%B8%D0%B9-%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B0%D0%B4.jpg"
+                <img src="https://www.otdih.pro/images/pages/2014_09/2c9f79be30f987a8a7a56684e26ff796.jpg"
                     alt="Криворожский ботанический сад" />
                 <blockquote>
                     Криворожский ботанический сад Национальной академии наук Украины был основан около 30 лет назад, на территории,
@@ -44,8 +28,8 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Цвето-музыкальный фонтан</h1>
-                <img src="http://www.openarium.ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D1%80%D0%BE%D0%B3/%D1%86%D0%B2%D0%B5%D1%82%D0%BE-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%84%D0%BE%D0%BD%D1%82%D0%B0%D0%BD.jpg"
+                <h1>Свето-музыкальный фонтан</h1>
+                <img src="https://all-ukraine.com.ua/cache/fontan-muz.krivoi-rog.jpg.dbc03f2f287ff34d3a09bbc16a63af33.jpeg"
                     alt="Цвето-музыкальный фонтан" />
                 <blockquote>
                     В 2011 году на площади возле горисполкома Кривого Рога был открыт фонтанный комплекс.
@@ -66,8 +50,30 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
+                <h1>Памятник "Козаку Мамаю"</h1>
+                <img src="https://tourdnepr.com/images/stories/news_2016/october/14_vilkul_pamyatnik_04.jpg"
+                    alt='Памятник "Козаку Мамаю"' />
+                <blockquote>
+                Мамай - идеализированный образ украинского казака и своеобразный духовный символ в Украине. 
+                О нем сочиняли легенды, рассказы, пословицы, изображали на многочисленных картинах народные живописцы. 
+                Его, как правило, изображают с сакральной для украинцев кобзой в руках. Рядом с героем народных легенд часто изображают лошадь 
+                - символ войны, неуправляемого гнева и храбрости; дуб, символизирующий могущество и генетическую чистоту рода.
+                </blockquote>
+                <blockquote>
+                Часто на рисунках присутствуют изображения копья с флагом, казацкого штофа и рюмки. Это были вещи, связанные 
+                с жизнью и смертью казака - копье ставили на месте захоронения, штоф и рюмку клали в могилу 
+                - они напоминали о мимолетности жизни и казацкую судьбу, в которой угроза смерти в бою была повседневной реальностью.
+                </blockquote>
+                <blockquote>
+                Над 2-метровой бронзовой скульптурой работал криворожанин Владимир Токарь. Он автор известных криворожанам памятников 
+                ликвидаторам аварии на ЧАЭС, генералу ВДВ Василию Маргелову. 
+                В марте этого года в Кривом Роге открыли памятник Героям АТО. И эту скульптуру создал Владимир Токарь.
+                </blockquote>
+                
+            </div>
+            <div className="textSet">
                 <h1>Криворожсталь</h1>
-                <img src="http://www.openarium.ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D1%80%D0%BE%D0%B3/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D0%BE%D0%B6%D1%81%D1%82%D0%B0%D0%BB%D1%8C.jpg"
+                <img src="https://kor.ill.in.ua/m/610x386/2118332.jpg"
                     alt="Криворожсталь" />
                 <blockquote>
                     «Криворожсталь» – это металлургический комбинат по производству стали, он находится в городе Кривой Рог.
@@ -88,8 +94,8 @@ let AnotherLandmarks = () => {
             </div>
             <div className="textSet">
                 <h1>Лодочная станция в парке им. газеты Правда</h1>
-                <img src="http://www.openarium.ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D1%80%D0%BE%D0%B3/%D0%BB%D0%BE%D0%B4%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F-%D0%B2-%D0%BF%D0%B0%D1%80%D0%BA%D0%B5-%D0%B8%D0%BC-%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D1%8B-%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0.jpg"
-                    alt="Лодочная станция в парке им. газеты Правда" />
+                <img src="https://yesyes.ua/uploads//users/947/portfolio/c6d2637531f336d257cb5f4842080993_c1.jpg"
+                    alt="Лодочная станция в парке имени Мершавцева (им. газеты Правда)" />
                 <blockquote>
                     Лодочная станция - своеобразная визитная карточка города. Ее построили в середине прошлого столетия
                     на левом берегу парка газеты «Правда», церемония открытия состоялась в мае 1957 года.
@@ -107,9 +113,9 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Памятник "Казак"</h1>
-                <img src="http://www.openarium.ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D1%80%D0%BE%D0%B3/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA-%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA.jpg"
-                    alt='Памятник " Казак"' />
+                <h1>Памятник "Козак Ріг"</h1>
+                <img src="https://krasintour.ua/_si/0/89307564.jpg"
+                    alt='Памятник "Козак Ріг"' />
                 <blockquote>
                     Памятник основателю города открыли 28 мая 2011 года. Скульптура символизирует казака Рога, который сошел
                     со своего коня и держит его под уздцы. Монумент водружен на колоссальный монолит железной руды, весом в 62 тонны.
@@ -126,7 +132,7 @@ let AnotherLandmarks = () => {
             </div>
             <div className="textSet">
                 <h1>Мост через реку Ингулец</h1>
-                <img src="http://www.openarium.ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0/%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9_%D1%80%D0%BE%D0%B3/%D0%BC%D0%BE%D1%81%D1%82-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-%D1%80%D0%B5%D0%BA%D1%83-%D0%B8%D0%BD%D0%B3%D1%83%D0%BB%D0%B5%D1%86.jpg"
+                <img src="https://lh3.googleusercontent.com/proxy/aylJshNkjlL1zN2ETSgUR44QWVPGPn4kNt9fhfZINoPvvm59StfWOgNQX1HY1aXxkyyY1Wx81IdCDtnxzgAFLR6nRAU0PuB-l1jJSP6QQw1t1JIYAGqJx2cIxAdK6JN480CI_SS91tb8TvHCZ4QSAbNFLS6PFNE9MbJSdb5dags_XiDo7dzx6hfQHOMCZb24ZM9rXzBRUqw-sdQqAgPEJLlhuw2kBRhJp--sScnkfIyBm94iL9DD_bZA4quTsKxVBLeQkTDQgKvLo-xdZ4tgkC0mL5gkon7l8tdMVe71SamsLbeCXYo3H_Mkv5vNM3W4bGGGGNeePbwyO7cHZTKzC9SjrLTtuqbtvRDPazvQZIf0VGMEusKEZaSg4PKykEBy9QESePZfR_t9j8Ps"
                     alt="Мост через реку Ингулец" />
                 <blockquote>
                     Одно из самых романтичных мест в Кривом Роге по праву считается подвесной мост через реку Ингулец
