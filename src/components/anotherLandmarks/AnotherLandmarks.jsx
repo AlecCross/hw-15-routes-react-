@@ -6,9 +6,11 @@ let AnotherLandmarks = () => {
     return (
         <>
             <div className="textSet">
-                <h1>Криворожский ботанический сад</h1>
-                <img src="https://www.otdih.pro/images/pages/2014_09/2c9f79be30f987a8a7a56684e26ff796.jpg"
-                    alt="Криворожский ботанический сад" />
+                <div className={s.photoDiv}>
+                    <h1>Криворожский ботанический сад</h1>
+                    <img className={s.img} src="https://www.otdih.pro/images/pages/2014_09/2c9f79be30f987a8a7a56684e26ff796.jpg"
+                        alt="Криворожский ботанический сад" />
+                </div>
                 <blockquote>
                     Криворожский ботанический сад Национальной академии наук Украины был основан около 30 лет назад, на территории,
                     когда-то принадлежавшей колхозу имени Тараса Шевченко. С тех пор ежегодно коллекции криворожских ученых-ботаников расширяются,
@@ -28,9 +30,11 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Свето-музыкальный фонтан</h1>
-                <img src="https://all-ukraine.com.ua/cache/fontan-muz.krivoi-rog.jpg.dbc03f2f287ff34d3a09bbc16a63af33.jpeg"
-                    alt="Цвето-музыкальный фонтан" />
+                <div className={s.photoDiv}>
+                    <h1>Свето-музыкальный фонтан</h1>
+                    <img className={s.img} src="https://all-ukraine.com.ua/cache/fontan-muz.krivoi-rog.jpg.dbc03f2f287ff34d3a09bbc16a63af33.jpeg"
+                        alt="Цвето-музыкальный фонтан" />
+                </div>
                 <blockquote>
                     В 2011 году на площади возле горисполкома Кривого Рога был открыт фонтанный комплекс.
                     Это событие произошло в рамках празднования очередного Дня города и весьма порадовало местных жителей.
@@ -50,31 +54,35 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Памятник "Козаку Мамаю"</h1>
-                <img src="https://tourdnepr.com/images/stories/news_2016/october/14_vilkul_pamyatnik_04.jpg"
-                    alt='Памятник "Козаку Мамаю"' />
+                <div className={s.photoDiv}>
+                    <h1>Памятник "Козаку Мамаю"</h1>
+                    <img className={s.img} src="https://tourdnepr.com/images/stories/news_2016/october/14_vilkul_pamyatnik_04.jpg"
+                        alt='Памятник "Козаку Мамаю"' />
+                </div>
                 <blockquote>
-                Мамай - идеализированный образ украинского казака и своеобразный духовный символ в Украине. 
-                О нем сочиняли легенды, рассказы, пословицы, изображали на многочисленных картинах народные живописцы. 
-                Его, как правило, изображают с сакральной для украинцев кобзой в руках. Рядом с героем народных легенд часто изображают лошадь 
-                - символ войны, неуправляемого гнева и храбрости; дуб, символизирующий могущество и генетическую чистоту рода.
+                    Мамай - идеализированный образ украинского казака и своеобразный духовный символ в Украине.
+                    О нем сочиняли легенды, рассказы, пословицы, изображали на многочисленных картинах народные живописцы.
+                    Его, как правило, изображают с сакральной для украинцев кобзой в руках. Рядом с героем народных легенд часто изображают лошадь
+                    - символ войны, неуправляемого гнева и храбрости; дуб, символизирующий могущество и генетическую чистоту рода.
                 </blockquote>
                 <blockquote>
-                Часто на рисунках присутствуют изображения копья с флагом, казацкого штофа и рюмки. Это были вещи, связанные 
-                с жизнью и смертью казака - копье ставили на месте захоронения, штоф и рюмку клали в могилу 
-                - они напоминали о мимолетности жизни и казацкую судьбу, в которой угроза смерти в бою была повседневной реальностью.
+                    Часто на рисунках присутствуют изображения копья с флагом, казацкого штофа и рюмки. Это были вещи, связанные
+                    с жизнью и смертью казака - копье ставили на месте захоронения, штоф и рюмку клали в могилу
+                    - они напоминали о мимолетности жизни и казацкую судьбу, в которой угроза смерти в бою была повседневной реальностью.
                 </blockquote>
                 <blockquote>
-                Над 2-метровой бронзовой скульптурой работал криворожанин Владимир Токарь. Он автор известных криворожанам памятников 
-                ликвидаторам аварии на ЧАЭС, генералу ВДВ Василию Маргелову. 
-                В марте этого года в Кривом Роге открыли памятник Героям АТО. И эту скульптуру создал Владимир Токарь.
+                    Над 2-метровой бронзовой скульптурой работал криворожанин Владимир Токарь. Он автор известных криворожанам памятников
+                    ликвидаторам аварии на ЧАЭС, генералу ВДВ Василию Маргелову.
+                    В марте этого года в Кривом Роге открыли памятник Героям АТО. И эту скульптуру создал Владимир Токарь.
                 </blockquote>
-                
+
             </div>
             <div className="textSet">
-                <h1>Криворожсталь</h1>
-                <img src="https://kor.ill.in.ua/m/610x386/2118332.jpg"
-                    alt="Криворожсталь" />
+                <div className={s.photoDiv}>
+                    <h1>Криворожсталь</h1>
+                    <img className={s.img} src="https://kor.ill.in.ua/m/610x386/2118332.jpg"
+                        alt="Криворожсталь" />
+                </div>
                 <blockquote>
                     «Криворожсталь» – это металлургический комбинат по производству стали, он находится в городе Кривой Рог.
                     В 2006 году предприятие было переименовано в «АрселорМиттал Кривой Рог». На сегодняшний день,
@@ -93,9 +101,11 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Лодочная станция в парке им. газеты Правда</h1>
-                <img src="https://yesyes.ua/uploads//users/947/portfolio/c6d2637531f336d257cb5f4842080993_c1.jpg"
-                    alt="Лодочная станция в парке имени Мершавцева (им. газеты Правда)" />
+                <div className={s.photoDiv}>
+                    <h1>Лодочная станция в парке им. газеты Правда</h1>
+                    <img className={s.img} src="https://yesyes.ua/uploads//users/947/portfolio/c6d2637531f336d257cb5f4842080993_c1.jpg"
+                        alt="Лодочная станция в парке имени Мершавцева (им. газеты Правда)" />
+                </div>
                 <blockquote>
                     Лодочная станция - своеобразная визитная карточка города. Ее построили в середине прошлого столетия
                     на левом берегу парка газеты «Правда», церемония открытия состоялась в мае 1957 года.
@@ -113,9 +123,11 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Памятник "Козак Ріг"</h1>
-                <img src="https://krasintour.ua/_si/0/89307564.jpg"
-                    alt='Памятник "Козак Ріг"' />
+                <div className={s.photoDiv}>
+                    <h1>Памятник "Козак Ріг"</h1>
+                    <img className={s.img} src="https://krasintour.ua/_si/0/89307564.jpg"
+                        alt='Памятник "Козак Ріг"' />
+                </div>
                 <blockquote>
                     Памятник основателю города открыли 28 мая 2011 года. Скульптура символизирует казака Рога, который сошел
                     со своего коня и держит его под уздцы. Монумент водружен на колоссальный монолит железной руды, весом в 62 тонны.
@@ -131,9 +143,11 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Мост через реку Ингулец</h1>
-                <img src="https://lh3.googleusercontent.com/proxy/aylJshNkjlL1zN2ETSgUR44QWVPGPn4kNt9fhfZINoPvvm59StfWOgNQX1HY1aXxkyyY1Wx81IdCDtnxzgAFLR6nRAU0PuB-l1jJSP6QQw1t1JIYAGqJx2cIxAdK6JN480CI_SS91tb8TvHCZ4QSAbNFLS6PFNE9MbJSdb5dags_XiDo7dzx6hfQHOMCZb24ZM9rXzBRUqw-sdQqAgPEJLlhuw2kBRhJp--sScnkfIyBm94iL9DD_bZA4quTsKxVBLeQkTDQgKvLo-xdZ4tgkC0mL5gkon7l8tdMVe71SamsLbeCXYo3H_Mkv5vNM3W4bGGGGNeePbwyO7cHZTKzC9SjrLTtuqbtvRDPazvQZIf0VGMEusKEZaSg4PKykEBy9QESePZfR_t9j8Ps"
-                    alt="Мост через реку Ингулец" />
+                <div className={s.photoDiv}>
+                    <h1>Мост через реку Ингулец</h1>
+                    <img className={s.img} src="https://lh3.googleusercontent.com/proxy/aylJshNkjlL1zN2ETSgUR44QWVPGPn4kNt9fhfZINoPvvm59StfWOgNQX1HY1aXxkyyY1Wx81IdCDtnxzgAFLR6nRAU0PuB-l1jJSP6QQw1t1JIYAGqJx2cIxAdK6JN480CI_SS91tb8TvHCZ4QSAbNFLS6PFNE9MbJSdb5dags_XiDo7dzx6hfQHOMCZb24ZM9rXzBRUqw-sdQqAgPEJLlhuw2kBRhJp--sScnkfIyBm94iL9DD_bZA4quTsKxVBLeQkTDQgKvLo-xdZ4tgkC0mL5gkon7l8tdMVe71SamsLbeCXYo3H_Mkv5vNM3W4bGGGGNeePbwyO7cHZTKzC9SjrLTtuqbtvRDPazvQZIf0VGMEusKEZaSg4PKykEBy9QESePZfR_t9j8Ps"
+                        alt="Мост через реку Ингулец" />
+                </div>
                 <blockquote>
                     Одно из самых романтичных мест в Кривом Роге по праву считается подвесной мост через реку Ингулец
                     в Парке культуры и отдыха им. газеты "Правда". Он появился одновременно с открытием парка в 1932 году,
@@ -151,9 +165,11 @@ let AnotherLandmarks = () => {
                 </blockquote>
             </div>
             <div className="textSet">
-                <h1>Лодочная станция</h1>
-                <img src="https://www.nastol.com.ua/large/201511/154982.jpg"
-                    alt="" />
+                <div className={s.photoDiv}>
+                    <h1>Лодочная станция</h1>
+                    <img className={s.img} src="https://www.nastol.com.ua/large/201511/154982.jpg"
+                        alt="" />
+                </div>
                 <blockquote>
                     В Кривом Рогу следует обязательно увидеть лодочную станцию, которая является одним из наиболее
                     любимых мест для всех жителей города, но наиболее – для молодоженов. А еще - это и одно из наиболее
