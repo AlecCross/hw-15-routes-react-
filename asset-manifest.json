@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/hw-15-routes-react-/static/css/main.1c0ae9a9.chunk.css",
-    "main.js": "/hw-15-routes-react-/static/js/main.431be4ad.chunk.js",
-    "main.js.map": "/hw-15-routes-react-/static/js/main.431be4ad.chunk.js.map",
+    "main.css": "/hw-15-routes-react-/static/css/main.c912f1eb.chunk.css",
+    "main.js": "/hw-15-routes-react-/static/js/main.4e358b7a.chunk.js",
+    "main.js.map": "/hw-15-routes-react-/static/js/main.4e358b7a.chunk.js.map",
     "runtime-main.js": "/hw-15-routes-react-/static/js/runtime-main.34846bff.js",
     "runtime-main.js.map": "/hw-15-routes-react-/static/js/runtime-main.34846bff.js.map",
-    "static/js/2.7b651588.chunk.js": "/hw-15-routes-react-/static/js/2.7b651588.chunk.js",
-    "static/js/2.7b651588.chunk.js.map": "/hw-15-routes-react-/static/js/2.7b651588.chunk.js.map",
+    "static/js/2.f46c3cae.chunk.js": "/hw-15-routes-react-/static/js/2.f46c3cae.chunk.js",
+    "static/js/2.f46c3cae.chunk.js.map": "/hw-15-routes-react-/static/js/2.f46c3cae.chunk.js.map",
     "static/js/3.9089e1fd.chunk.js": "/hw-15-routes-react-/static/js/3.9089e1fd.chunk.js",
     "static/js/3.9089e1fd.chunk.js.map": "/hw-15-routes-react-/static/js/3.9089e1fd.chunk.js.map",
     "index.html": "/hw-15-routes-react-/index.html",
-    "static/css/main.1c0ae9a9.chunk.css.map": "/hw-15-routes-react-/static/css/main.1c0ae9a9.chunk.css.map",
-    "static/js/2.7b651588.chunk.js.LICENSE.txt": "/hw-15-routes-react-/static/js/2.7b651588.chunk.js.LICENSE.txt",
+    "static/css/main.c912f1eb.chunk.css.map": "/hw-15-routes-react-/static/css/main.c912f1eb.chunk.css.map",
+    "static/js/2.f46c3cae.chunk.js.LICENSE.txt": "/hw-15-routes-react-/static/js/2.f46c3cae.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/hw-15-routes-react-/static/media/logo.6ce24c58.svg",
     "static/media/photos_collage.5783011d.jpg": "/hw-15-routes-react-/static/media/photos_collage.5783011d.jpg",
     "static/media/Карьер-Вид сверху.69aae087.jpg": "/hw-15-routes-react-/static/media/Карьер-Вид сверху.69aae087.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.34846bff.js",
-    "static/js/2.7b651588.chunk.js",
-    "static/css/main.1c0ae9a9.chunk.css",
-    "static/js/main.431be4ad.chunk.js"
+    "static/js/2.f46c3cae.chunk.js",
+    "static/css/main.c912f1eb.chunk.css",
+    "static/js/main.4e358b7a.chunk.js"
   ]
 }
