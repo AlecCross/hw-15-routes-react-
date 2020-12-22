@@ -17,8 +17,9 @@ let CityPhotos = () =>{
             alt="Цветочные часы"/>
             <img src="https://ki.ill.in.ua/m/670x450/24367558.jpg" alt="Завод1"/>
             <img src="https://www.liga.net/images/general/2019/08/26/20190826124446-2663.jpg" alt="Завод2"/>
-            <img src="https://lh3.googleusercontent.com/proxy/FUA2WOx7KmLLl1nEkA2hHbT4jqmv5UrdQ-1V85m-uvDj5kddjTVp8yzE2P6D7YD2u_Thx0Z71EIo-cTL4YrvRDQgPiKJ-NbpL_czcPLjWa_yZKMT515JWlHKq6C1qgy0WyMwpMSjo3YUXrmI" 
-            alt="Собор"/>
+
+            {/* https://lh3.googleusercontent.com/proxy/sjw3bBnZDEEQwKofXHlEmdvwY2gAAaFAn_C0M_xr1X2UAxwliJ369in3jPN0Fz-1O526Ri1hnOU6xbiAiy12LMkUxrkWn_IYEePg4Y0Rs5PfhLQsfmDASpTBwoIGJ0TtmvY */}
+            <img src="http://girnyk.com.ua/sites/default/files/pictures/2017/04/06/spasskaya.jpg" alt="Собор"/>
             <img src="https://www.nezabarom.ua/img/cities/29697b95dc.jpg" alt="95й Квартал"/>
             <img src="https://yesyes.ua/uploads//users/946/portfolio/895508016e8473959e11a02cff7254e3_c1.jpg"
              alt="Затопленный карьер"/>
